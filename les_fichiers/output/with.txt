@@ -1,0 +1,3 @@
+Appending a new line using 'with' statement.
+Appending another line using 'with' statement.
+

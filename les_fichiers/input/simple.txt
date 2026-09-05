@@ -1,0 +1,16 @@
+Python est un langage de programmation informatique de haut niveau,
+interprete et polyvalent, 
+cree en 1991 par Guido van Rossum. 
+
+Caracteristiques principales
+Facile a lire et a apprendre : 
+    Sa syntaxe utilise des mots proches de l'anglais et 
+    l'indentation (les espaces en debut de ligne), 
+    ce qui le rend ideal pour les debutants. 
+
+Interprete : 
+    Le code est lu et execute directement par un programme appele interpreteur, 
+    sans necessiter d'etape de compilation prealable. 
+
+Open source et gratuit : 
+    Il est accessible a tous et gere par une large communaute mondiale. 
